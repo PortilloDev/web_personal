@@ -1,0 +1,30 @@
+.imagen {
+   background: no-repeat fixed center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.texto-encima {
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    color: white;
+}
+
+.centrado {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color: white;
+    display: inline-block;
+}
+
+#a-imagen {
+    color: white;
+}

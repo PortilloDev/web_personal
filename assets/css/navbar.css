@@ -1,0 +1,42 @@
+#tecnologia li>a {
+    color: black;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    min-width: 100px;
+}
+
+#tecnologia li>a:hover {
+    color: #000;
+    background-color: #eaeaea;
+}
+
+#tecnologia>li {
+    float: left;
+    text-align: center
+}
+
+#tecnologia>li>ul {
+    display: none;
+}
+
+#tecnologia>li:hover>ul {
+    display: block;
+}
+
+header {
+    background: url(bg.masthead.jpg) no-repeat center;
+    height: 550px;
+    width: 50px;
+}
+
+.list-group-item {
+    background: transparent !important;
+}
+
+#tecnologia>nav {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    width: 100%;
+}
