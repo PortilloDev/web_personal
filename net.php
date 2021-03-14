@@ -28,7 +28,7 @@ require 'template/header.php';
                 <!--Grid column-->
                 <div class="col-md-12 px-lg-5">
                     <!--Card-->
-                    <h1 class="font-weight-bold mt-5 mb-5 text-center" style="color: black;">
+                    <h1 class="font-weight-bold mt-5 mb-5 text-center" style="color: orange;">
                         <strong>.Net</strong>
                     </h1>
                     <div class="card pb-5 mx-md-3">
