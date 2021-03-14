@@ -28,9 +28,8 @@
 <!-- Masthead-->
 <header class="">
     <div class="">
-        <img srcset="assets/img/bg-masthead.jpg,
-        assets/img/bg-masthead.jpg 1.5x,
-        assets/img/bg-masthead.jpg 2x" src="assets/img/bg-masthead.jpg" style="margin-top:-100;" width="1662" height="400">
+       
+        <img src="assets/img/small.jpg" srcset="assets/img/large.jpg 1024w, assets/img/medium.jpg 640w, assets/img/small.jpg 320w" sizes="(min-width: 576px) 33.3vw, 100vw" alt="Ejemplo">
 
     </div>
 </header>
