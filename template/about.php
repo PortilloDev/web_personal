@@ -36,7 +36,7 @@
                     📌Jira Agile, Docker, Git, Git Lab, Visual Studio Code, DBeaver, Workbench  
                 </p>
                 <br><br>
-                <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">¿Quieres saber más de mi? adelante!</a>
+                <a class="btn btn-light  js-scroll-trigger" href="#services">Averigua más sobre mi</a>
             </div>
         </div>
     </div>

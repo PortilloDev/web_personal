@@ -9,7 +9,7 @@
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#experiencia">Experiencia</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#about">Sobre mi</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contacto</a></li>
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="https://gitlab.com/iportillo_develop" target="_blank">Git</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="https://github.com/PortilloDev" target="_blank">Mi GitHub</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger">Técnologias 👇</a>
                     <ul class="navbar-nav ml-auto my-2 my-lg-0">
                         <li><a href="laravel.php">Laravel</a></li>

@@ -37,4 +37,7 @@
             margin-top: 2px;
         }
     </style>
+
+    <!--plausible-->
+<script async defer data-domain="ivan-portillo-perez.com" src="https://plausible.io/js/plausible.js"></script>
 </head>
