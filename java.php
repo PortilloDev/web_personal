@@ -27,7 +27,7 @@ require 'template/header.php';
 
                 <!--Grid column-->
                 <div class="col-md-12 px-lg-5">
-                    <h1 class="font-weight-bold mt-5 mb-5 text-center" style="color: black;">
+                    <h1 class="font-weight-bold mt-5 mb-5 text-center" style="color: orange;">
                         <strong>Java</strong>
                     </h1>
                     <!--Card-->
