@@ -49,16 +49,16 @@ require 'template/header.php';
                                             </p>
                                             <p class="text-black mb-4 font-weight-light mb-2" style="text-align: center;">
                                                 Para finalizar, al programa se le pasaba un batería de pruebas con las restricciones que habían programado los profesores, para así validar que el desarrollo cumplía las especificaciones dadas. En este caso la nota final del proyecto fue de un <strong> 8️⃣ </strong>.
-                                                👉 <a href="https://gitlab.com/iportillo_develop/cifras-y-letras-en-java" target="_blank"> Projecto </a>
+                                                👉 <a href="https://github.com/PortilloDev/cifras-y-letras-en-java" target="_blank"> Projecto </a>
                                             </p>
                                             <p class="text-black mb-4 font-weight-light mb-2" style="text-align: center;">
-                                                También he realizado algún pequeño proyecto personal en web, para la creación de una API con Swagger. Del que llegue a crear una imagen en Docker. 
+                                                También he realizado algún pequeño proyecto personal en web, para la creación de una API con Swagger. Del que llegue a crear una imagen en Docker.
                                             </p>
                                             <p class="text-black mb-4 font-weight-light mb-2" style="text-align: center;">
-                                                        👉 <a href="https://gitlab.com/iportillo_develop/api-project-java" target="_blank"> Código </a>
+                                                👉 <a href="https://github.com/PortilloDev/api-project-java" target="_blank"> Código </a>
                                             </p>
                                             <p class="text-black mb-4 font-weight-light mb-2" style="text-align: center;">
-                                                        👉 <a href="https://hub.docker.com/r/iportillo/e-reservation" target="_blank"> Imagen</a>
+                                                👉 <a href="https://hub.docker.com/r/iportillo/e-reservation" target="_blank"> Imagen</a>
                                             </p>
                                             <br>
                                             <br>
