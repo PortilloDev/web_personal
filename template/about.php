@@ -1,11 +1,9 @@
 <section class="page-section" id="about">
-
+  <img src="assets/img/large.jpg" class="img-fluid img-thumbnail" alt="...">
     <div class="container" style="background-color: white;">
         <div class="row justify-content-center">
             <div class="col-lg-8 text-center">
-                <hr class="divider light my-4" />
                 <h2 class="text-black mb-4"><strong>👩🏻‍💻 Iván Portillo</strong></h2>
-                <hr class="divider my-4" />
                 <br>
                 <p class="text-black mb-4">Hola soy Iván y antes de nada dejame <strong>agradecerte</strong> que dediques unos minutos a conocer mi perfil profesional. </p>
                 <br>
