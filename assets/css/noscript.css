@@ -41,3 +41,8 @@
 		transform: none !important;
 		opacity: 1 !important;
 	}
+/*Image*/
+	.responsive {
+		width: 100%;
+		height: auto;
+	  }
