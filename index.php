@@ -110,7 +110,7 @@
                       <div class="font-bold text-xl mb-2">Portfolio React</div>
                       <p class="text-white text-base">
                           Creación de un Porfolio para un perfil musical. Desarrollado en React y usa un Backend construido en Laravel por medio de Axios, para la integración 
-                          de servicio de correo. <a href="https://rafaelportillo.es/" target="_blank" class="bg-white hover:bg-black text-gray-800 text-base font-semibold py-1 px-2 border border-gray-400 rounded-xl shadow">Learn more</a>
+                          de servicio de correo.   <a href="https://rafaelportillo.es/" target="_blank" class="bg-white hover:bg-black text-gray-800 text-base font-semibold py-1 px-2 border border-gray-400 rounded-xl shadow">Learn more</a>
                       </p>
                     </div>
                   <div class="px-6 pt-4 pb-2 mt-10">
